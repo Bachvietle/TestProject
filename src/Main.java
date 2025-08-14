@@ -6,5 +6,6 @@ public class Main {
         Dog dog1 = new Dog(4, 6);
 
         System.out.println(dog1.age);
+        System.out.println(dog1.sochan);
     }
 }
